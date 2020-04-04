@@ -25,7 +25,7 @@ namespace lab1_PhamHuyHoang
             List<UserInfor> listUser = new List<UserInfor>();
 
             DataTable data = new DataTable();
-            using(CsvReader csv = new CsvReader(new StreamReader(File.OpenRead(@"C:\Users\hoang\source\repos\lab1_PhamHuyHoang\lab1_PhamHuyHoang\bin\Debug\data.csv")),true))
+            using(CsvReader csv = new CsvReader(new StreamReader(File.OpenRead("data.csv")),true))
             {
                 data.Load(csv);
             }

@@ -15,3 +15,4 @@ E:\курс 3\ki2\управление мобильными устройства
 E:\курс 3\ki2\управление мобильными устройствами\Управление мобильными устройствами_ Фам Хю Хоанг N3351\лаб1\Код\lab1_PhamHuyHoang\lab1_PhamHuyHoang\obj\Release\lab1_PhamHuyHoang.csproj.CopyComplete
 E:\курс 3\ki2\управление мобильными устройствами\Управление мобильными устройствами_ Фам Хю Хоанг N3351\лаб1\Код\lab1_PhamHuyHoang\lab1_PhamHuyHoang\obj\Release\lab1_PhamHuyHoang.exe
 E:\курс 3\ki2\управление мобильными устройствами\Управление мобильными устройствами_ Фам Хю Хоанг N3351\лаб1\Код\lab1_PhamHuyHoang\lab1_PhamHuyHoang\obj\Release\lab1_PhamHuyHoang.pdb
+E:\курс 3\ki2\управление мобильными устройствами\Управление мобильными устройствами_ Фам Хю Хоанг N3351\лаб1\Код\lab1_PhamHuyHoang\lab1_PhamHuyHoang\obj\Release\lab1_PhamHuyHoang.csprojAssemblyReference.cache
