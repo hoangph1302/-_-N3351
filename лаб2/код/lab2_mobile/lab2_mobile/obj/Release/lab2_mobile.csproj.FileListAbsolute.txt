@@ -1,0 +1,14 @@
+C:\Users\hoang\source\repos\lab2_mobile\lab2_mobile\bin\Release\lab2_mobile.exe.config
+C:\Users\hoang\source\repos\lab2_mobile\lab2_mobile\bin\Release\lab2_mobile.exe
+C:\Users\hoang\source\repos\lab2_mobile\lab2_mobile\bin\Release\lab2_mobile.pdb
+C:\Users\hoang\source\repos\lab2_mobile\lab2_mobile\bin\Release\LumenWorks.Framework.IO.dll
+C:\Users\hoang\source\repos\lab2_mobile\lab2_mobile\bin\Release\LumenWorks.Framework.IO.pdb
+C:\Users\hoang\source\repos\lab2_mobile\lab2_mobile\bin\Release\LumenWorks.Framework.IO.xml
+C:\Users\hoang\source\repos\lab2_mobile\lab2_mobile\obj\Release\lab2_mobile.csprojAssemblyReference.cache
+C:\Users\hoang\source\repos\lab2_mobile\lab2_mobile\obj\Release\lab2_mobile.NetFlow.resources
+C:\Users\hoang\source\repos\lab2_mobile\lab2_mobile\obj\Release\lab2_mobile.Properties.Resources.resources
+C:\Users\hoang\source\repos\lab2_mobile\lab2_mobile\obj\Release\lab2_mobile.csproj.GenerateResource.cache
+C:\Users\hoang\source\repos\lab2_mobile\lab2_mobile\obj\Release\lab2_mobile.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\lab2_mobile\lab2_mobile\obj\Release\lab2_mobile.csproj.CopyComplete
+C:\Users\hoang\source\repos\lab2_mobile\lab2_mobile\obj\Release\lab2_mobile.exe
+C:\Users\hoang\source\repos\lab2_mobile\lab2_mobile\obj\Release\lab2_mobile.pdb
