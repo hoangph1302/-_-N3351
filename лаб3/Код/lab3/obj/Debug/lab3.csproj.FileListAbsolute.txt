@@ -1,0 +1,22 @@
+C:\Users\hoang\source\repos\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\hoang\source\repos\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\hoang\source\repos\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\hoang\source\repos\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+C:\Users\hoang\source\repos\lab3\lab3\obj\Debug\lab3.Form1.resources
+C:\Users\hoang\source\repos\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\hoang\source\repos\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\hoang\source\repos\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\hoang\source\repos\lab3\lab3\obj\Debug\lab3.pdb
+C:\Users\hoang\source\repos\lab3\lab3\obj\Debug\lab3.csproj.ResolveComReference.cache
+E:\курс 3\ki2\управление мобильными устройствами\Управление мобильными устройствами_ Фам Хю Хоанг N3351\лаб3\lab3\bin\Debug\lab3.exe.config
+E:\курс 3\ki2\управление мобильными устройствами\Управление мобильными устройствами_ Фам Хю Хоанг N3351\лаб3\lab3\bin\Debug\lab3.exe
+E:\курс 3\ki2\управление мобильными устройствами\Управление мобильными устройствами_ Фам Хю Хоанг N3351\лаб3\lab3\bin\Debug\lab3.pdb
+E:\курс 3\ki2\управление мобильными устройствами\Управление мобильными устройствами_ Фам Хю Хоанг N3351\лаб3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+E:\курс 3\ki2\управление мобильными устройствами\Управление мобильными устройствами_ Фам Хю Хоанг N3351\лаб3\lab3\obj\Debug\lab3.csproj.ResolveComReference.cache
+E:\курс 3\ki2\управление мобильными устройствами\Управление мобильными устройствами_ Фам Хю Хоанг N3351\лаб3\lab3\obj\Debug\lab3.Form1.resources
+E:\курс 3\ki2\управление мобильными устройствами\Управление мобильными устройствами_ Фам Хю Хоанг N3351\лаб3\lab3\obj\Debug\lab3.Properties.Resources.resources
+E:\курс 3\ki2\управление мобильными устройствами\Управление мобильными устройствами_ Фам Хю Хоанг N3351\лаб3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+E:\курс 3\ki2\управление мобильными устройствами\Управление мобильными устройствами_ Фам Хю Хоанг N3351\лаб3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+E:\курс 3\ki2\управление мобильными устройствами\Управление мобильными устройствами_ Фам Хю Хоанг N3351\лаб3\lab3\obj\Debug\lab3.exe
+E:\курс 3\ki2\управление мобильными устройствами\Управление мобильными устройствами_ Фам Хю Хоанг N3351\лаб3\lab3\obj\Debug\lab3.pdb
